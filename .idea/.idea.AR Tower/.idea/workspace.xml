@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="073cbdff-954d-418b-a6c5-3472fe607c57" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/UnityARKitPlugin/Examples/UnityARBallz/Main.unity.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/EditorInstance.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/01/01e02995805eb483690380a911a657e2" afterPath="$PROJECT_DIR$/Library/metadata/01/01e02995805eb483690380a911a657e2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/01/01e02995805eb483690380a911a657e2.info" afterPath="$PROJECT_DIR$/Library/metadata/01/01e02995805eb483690380a911a657e2.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/26/26fe4b2e7b3b845a6b5668ad693669af" afterPath="$PROJECT_DIR$/Library/metadata/26/26fe4b2e7b3b845a6b5668ad693669af" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/26/26fe4b2e7b3b845a6b5668ad693669af.info" afterPath="$PROJECT_DIR$/Library/metadata/26/26fe4b2e7b3b845a6b5668ad693669af.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/27/27a1657365e7440158436bc8e151d931" afterPath="$PROJECT_DIR$/Library/metadata/27/27a1657365e7440158436bc8e151d931" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/27/27a1657365e7440158436bc8e151d931.info" afterPath="$PROJECT_DIR$/Library/metadata/27/27a1657365e7440158436bc8e151d931.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/27/27ce5eddbf1a34ea3a8182b5871c2806" afterPath="$PROJECT_DIR$/Library/metadata/27/27ce5eddbf1a34ea3a8182b5871c2806" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/27/27ce5eddbf1a34ea3a8182b5871c2806.info" afterPath="$PROJECT_DIR$/Library/metadata/27/27ce5eddbf1a34ea3a8182b5871c2806.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/2f/2febd0c993e0741fa9bd119683ee8921" afterPath="$PROJECT_DIR$/Library/metadata/2f/2febd0c993e0741fa9bd119683ee8921" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/2f/2febd0c993e0741fa9bd119683ee8921.info" afterPath="$PROJECT_DIR$/Library/metadata/2f/2febd0c993e0741fa9bd119683ee8921.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0" afterPath="$PROJECT_DIR$/Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0.info" afterPath="$PROJECT_DIR$/Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/3d/3d7380326a6e14e9688556154528086c" afterPath="$PROJECT_DIR$/Library/metadata/3d/3d7380326a6e14e9688556154528086c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/3d/3d7380326a6e14e9688556154528086c.info" afterPath="$PROJECT_DIR$/Library/metadata/3d/3d7380326a6e14e9688556154528086c.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/43/433a9cacc6e034c25a6a14eb6af1b09c" afterPath="$PROJECT_DIR$/Library/metadata/43/433a9cacc6e034c25a6a14eb6af1b09c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/43/433a9cacc6e034c25a6a14eb6af1b09c.info" afterPath="$PROJECT_DIR$/Library/metadata/43/433a9cacc6e034c25a6a14eb6af1b09c.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/46/460636d894925441ba1debe037d2e343" afterPath="$PROJECT_DIR$/Library/metadata/46/460636d894925441ba1debe037d2e343" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/46/460636d894925441ba1debe037d2e343.info" afterPath="$PROJECT_DIR$/Library/metadata/46/460636d894925441ba1debe037d2e343.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6" afterPath="$PROJECT_DIR$/Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6.info" afterPath="$PROJECT_DIR$/Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/4e/4e0e8b7bcde33420a8c2731e0f3fbd57" afterPath="$PROJECT_DIR$/Library/metadata/4e/4e0e8b7bcde33420a8c2731e0f3fbd57" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/4e/4e0e8b7bcde33420a8c2731e0f3fbd57.info" afterPath="$PROJECT_DIR$/Library/metadata/4e/4e0e8b7bcde33420a8c2731e0f3fbd57.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/54/54820846856014161a452f4eb38ab087" afterPath="$PROJECT_DIR$/Library/metadata/54/54820846856014161a452f4eb38ab087" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/54/54820846856014161a452f4eb38ab087.info" afterPath="$PROJECT_DIR$/Library/metadata/54/54820846856014161a452f4eb38ab087.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/5c/5c4f28f6254cd4e9fb5b1d7b51cb348c" afterPath="$PROJECT_DIR$/Library/metadata/5c/5c4f28f6254cd4e9fb5b1d7b51cb348c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/5c/5c4f28f6254cd4e9fb5b1d7b51cb348c.info" afterPath="$PROJECT_DIR$/Library/metadata/5c/5c4f28f6254cd4e9fb5b1d7b51cb348c.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/5d/5db0892a9f35841a1aafa4d2f617eaf3" afterPath="$PROJECT_DIR$/Library/metadata/5d/5db0892a9f35841a1aafa4d2f617eaf3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/5d/5db0892a9f35841a1aafa4d2f617eaf3.info" afterPath="$PROJECT_DIR$/Library/metadata/5d/5db0892a9f35841a1aafa4d2f617eaf3.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/6a/6ae2af98f5c9f0243806bfb6ccbbdd19" afterPath="$PROJECT_DIR$/Library/metadata/6a/6ae2af98f5c9f0243806bfb6ccbbdd19" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/6a/6ae2af98f5c9f0243806bfb6ccbbdd19.info" afterPath="$PROJECT_DIR$/Library/metadata/6a/6ae2af98f5c9f0243806bfb6ccbbdd19.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/6f/6f12b022b96934e8496f32281cfe574c" afterPath="$PROJECT_DIR$/Library/metadata/6f/6f12b022b96934e8496f32281cfe574c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/6f/6f12b022b96934e8496f32281cfe574c.info" afterPath="$PROJECT_DIR$/Library/metadata/6f/6f12b022b96934e8496f32281cfe574c.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/7c/7c403f6b3529944498d913eafe2bee11" afterPath="$PROJECT_DIR$/Library/metadata/7c/7c403f6b3529944498d913eafe2bee11" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/7c/7c403f6b3529944498d913eafe2bee11.info" afterPath="$PROJECT_DIR$/Library/metadata/7c/7c403f6b3529944498d913eafe2bee11.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/a1/a1b06157fdd524f669d8355fbadd0889" afterPath="$PROJECT_DIR$/Library/metadata/a1/a1b06157fdd524f669d8355fbadd0889" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/a1/a1b06157fdd524f669d8355fbadd0889.info" afterPath="$PROJECT_DIR$/Library/metadata/a1/a1b06157fdd524f669d8355fbadd0889.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/a3/a372ce265d14840389df4dcbfb6a4570" afterPath="$PROJECT_DIR$/Library/metadata/a3/a372ce265d14840389df4dcbfb6a4570" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/a3/a372ce265d14840389df4dcbfb6a4570.info" afterPath="$PROJECT_DIR$/Library/metadata/a3/a372ce265d14840389df4dcbfb6a4570.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/a3/a3cc890ba79fb47449fb51893aa9b363" afterPath="$PROJECT_DIR$/Library/metadata/a3/a3cc890ba79fb47449fb51893aa9b363" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/a3/a3cc890ba79fb47449fb51893aa9b363.info" afterPath="$PROJECT_DIR$/Library/metadata/a3/a3cc890ba79fb47449fb51893aa9b363.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/AssetImportState" afterPath="$PROJECT_DIR$/Library/AssetImportState" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="BlockManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/BlockManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding>
+                <marker date="1530727204452" expanded="true" signature="6:104" ph="..." />
+                <marker date="1530727204452" expanded="true" signature="147:1585" ph="{...}" />
+                <marker date="1530727204452" expanded="true" signature="316:361" ph="{...}" />
+                <marker date="1530727204452" expanded="true" signature="400:767" ph="{...}" />
+                <marker date="1530727204452" expanded="true" signature="821:1583" ph="{...}" />
+                <marker date="1530727204452" expanded="true" signature="851:1579" ph="{...}" />
+                <marker date="1530727204452" expanded="true" signature="929:1575" ph="{...}" />
+                <marker date="1530727204452" expanded="true" signature="1043:1103" ph="{...}" />
+                <marker date="1530727204452" expanded="true" signature="1330:1569" ph="{...}" />
+                <marker date="1530727204452" expanded="true" signature="1375:1563" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ModeSwitcher.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/UnityARKitPlugin/Examples/UnityARBallz/ModeSwitcher.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <marker date="1515615299000" expanded="false" signature="6:78" ph="..." />
+                <marker date="1515615299000" expanded="true" signature="122:679" ph="{...}" />
+                <marker date="1515615299000" expanded="true" signature="257:264" ph="{...}" />
+                <marker date="1515615299000" expanded="true" signature="319:326" ph="{...}" />
+                <marker date="1515615299000" expanded="true" signature="365:437" ph="{...}" />
+                <marker date="1515615299000" expanded="true" signature="452:676" ph="{...}" />
+                <marker date="1515615299000" expanded="true" signature="594:672" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UnityARGeneratePlane.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Helpers/UnityARGeneratePlane.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="13" column="63" lean-forward="false" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
+              <folding>
+                <marker date="1530725364009" expanded="false" signature="6:47" ph="..." />
+                <marker date="1530725364009" expanded="true" signature="77:1035" ph="{...}" />
+                <marker date="1530725364009" expanded="true" signature="130:1033" ph="{...}" />
+                <marker date="1530725364009" expanded="true" signature="276:399" ph="{...}" />
+                <marker date="1530725364009" expanded="true" signature="425:490" ph="{...}" />
+                <marker date="1530725364009" expanded="true" signature="512:1029" ph="{...}" />
+                <marker date="1530725364009" expanded="true" signature="657:1019" ph="{...}" />
+                <marker date="1530725364009" expanded="true" signature="675:1005" ph="/* ARPlaneAnchor ap = arpags [0].planeAnchor; ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BallMaker.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/UnityARKitPlugin/Examples/UnityARBallz/BallMaker.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="45" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+              <folding>
+                <marker date="1515615314000" expanded="true" signature="6:104" ph="..." />
+                <marker date="1515615314000" expanded="true" signature="145:1560" ph="{...}" />
+                <marker date="1515615314000" expanded="true" signature="293:338" ph="{...}" />
+                <marker date="1515615314000" expanded="true" signature="376:742" ph="{...}" />
+                <marker date="1515615314000" expanded="true" signature="796:1557" ph="{...}" />
+                <marker date="1515615314000" expanded="true" signature="826:1553" ph="{...}" />
+                <marker date="1515615314000" expanded="true" signature="904:1549" ph="{...}" />
+                <marker date="1515615314000" expanded="true" signature="1018:1078" ph="{...}" />
+                <marker date="1515615314000" expanded="true" signature="1305:1543" ph="{...}" />
+                <marker date="1515615314000" expanded="true" signature="1350:1537" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BallMover.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/UnityARKitPlugin/Examples/UnityARBallz/BallMover.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1515615309000" expanded="false" signature="6:104" ph="..." />
+                <marker date="1515615309000" expanded="true" signature="145:2084" ph="{...}" />
+                <marker date="1515615309000" expanded="true" signature="263:270" ph="{...}" />
+                <marker date="1515615309000" expanded="true" signature="318:407" ph="{...}" />
+                <marker date="1515615309000" expanded="true" signature="462:2082" ph="{...}" />
+                <marker date="1515615309000" expanded="true" signature="492:2078" ph="{...}" />
+                <marker date="1515615309000" expanded="true" signature="571:1191" ph="{...}" />
+                <marker date="1515615309000" expanded="true" signature="682:742" ph="{...}" />
+                <marker date="1515615309000" expanded="true" signature="998:1185" ph="{...}" />
+                <marker date="1515615309000" expanded="true" signature="1043:1179" ph="{...}" />
+                <marker date="1515615309000" expanded="true" signature="1256:1950" ph="{...}" />
+                <marker date="1515615309000" expanded="true" signature="1367:1427" ph="{...}" />
+                <marker date="1515615309000" expanded="true" signature="1683:1945" ph="{...}" />
+                <marker date="1515615309000" expanded="true" signature="1728:1939" ph="{...}" />
+                <marker date="1515615309000" expanded="true" signature="1998:2074" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UnityARUtility.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Helpers/UnityARUtility.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+              <folding>
+                <marker date="1515615284000" expanded="false" signature="6:51" ph="..." />
+                <marker date="1515615284000" expanded="true" signature="81:1742" ph="{...}" />
+                <marker date="1515615284000" expanded="true" signature="112:1740" ph="{...}" />
+                <marker date="1515615284000" expanded="true" signature="380:409" ph="{...}" />
+                <marker date="1515615284000" expanded="true" signature="487:822" ph="{...}" />
+                <marker date="1515615284000" expanded="true" signature="541:596" ph="{...}" />
+                <marker date="1515615284000" expanded="true" signature="928:1734" ph="{...}" />
+                <marker date="1515615284000" expanded="true" signature="1244:1712" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BlockManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Helpers/UnityARUtility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UnityARKitPlugin/Examples/UnityARBallz/BallMover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Helpers/UnityARGeneratePlane.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UnityARKitPlugin/Examples/UnityARBallz/BallMaker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UnityARKitPlugin/Examples/UnityARBallz/ModeSwitcher.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1177" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="AR Tower (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_OUTPUT_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="073cbdff-954d-418b-a6c5-3472fe607c57" name="Default" comment="" />
+      <created>1530720232697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530720232697</updated>
+      <workItem from="1530720235017" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="94000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1177" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Helpers/UnityARUtility.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <marker date="1515615284000" expanded="false" signature="6:51" ph="..." />
+            <marker date="1515615284000" expanded="true" signature="81:1742" ph="{...}" />
+            <marker date="1515615284000" expanded="true" signature="112:1740" ph="{...}" />
+            <marker date="1515615284000" expanded="true" signature="380:409" ph="{...}" />
+            <marker date="1515615284000" expanded="true" signature="487:822" ph="{...}" />
+            <marker date="1515615284000" expanded="true" signature="541:596" ph="{...}" />
+            <marker date="1515615284000" expanded="true" signature="928:1734" ph="{...}" />
+            <marker date="1515615284000" expanded="true" signature="1244:1712" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Helpers/UnityARGeneratePlane.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="63" lean-forward="false" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
+          <folding>
+            <marker date="1530725364009" expanded="false" signature="6:47" ph="..." />
+            <marker date="1530725364009" expanded="true" signature="77:1035" ph="{...}" />
+            <marker date="1530725364009" expanded="true" signature="130:1033" ph="{...}" />
+            <marker date="1530725364009" expanded="true" signature="276:399" ph="{...}" />
+            <marker date="1530725364009" expanded="true" signature="425:490" ph="{...}" />
+            <marker date="1530725364009" expanded="true" signature="512:1029" ph="{...}" />
+            <marker date="1530725364009" expanded="true" signature="657:1019" ph="{...}" />
+            <marker date="1530725364009" expanded="true" signature="675:1005" ph="/* ARPlaneAnchor ap = arpags [0].planeAnchor; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BlockManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <marker date="1530727204452" expanded="true" signature="6:104" ph="..." />
+            <marker date="1530727204452" expanded="true" signature="147:1585" ph="{...}" />
+            <marker date="1530727204452" expanded="true" signature="316:361" ph="{...}" />
+            <marker date="1530727204452" expanded="true" signature="400:767" ph="{...}" />
+            <marker date="1530727204452" expanded="true" signature="821:1583" ph="{...}" />
+            <marker date="1530727204452" expanded="true" signature="851:1579" ph="{...}" />
+            <marker date="1530727204452" expanded="true" signature="929:1575" ph="{...}" />
+            <marker date="1530727204452" expanded="true" signature="1043:1103" ph="{...}" />
+            <marker date="1530727204452" expanded="true" signature="1330:1569" ph="{...}" />
+            <marker date="1530727204452" expanded="true" signature="1375:1563" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UnityARKitPlugin/Examples/UnityARBallz/ModeSwitcher.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <marker date="1515615299000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1515615299000" expanded="true" signature="122:679" ph="{...}" />
+            <marker date="1515615299000" expanded="true" signature="257:264" ph="{...}" />
+            <marker date="1515615299000" expanded="true" signature="319:326" ph="{...}" />
+            <marker date="1515615299000" expanded="true" signature="365:437" ph="{...}" />
+            <marker date="1515615299000" expanded="true" signature="452:676" ph="{...}" />
+            <marker date="1515615299000" expanded="true" signature="594:672" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UnityARKitPlugin/Examples/UnityARBallz/BallMaker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="45" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+          <folding>
+            <marker date="1515615314000" expanded="true" signature="6:104" ph="..." />
+            <marker date="1515615314000" expanded="true" signature="145:1560" ph="{...}" />
+            <marker date="1515615314000" expanded="true" signature="293:338" ph="{...}" />
+            <marker date="1515615314000" expanded="true" signature="376:742" ph="{...}" />
+            <marker date="1515615314000" expanded="true" signature="796:1557" ph="{...}" />
+            <marker date="1515615314000" expanded="true" signature="826:1553" ph="{...}" />
+            <marker date="1515615314000" expanded="true" signature="904:1549" ph="{...}" />
+            <marker date="1515615314000" expanded="true" signature="1018:1078" ph="{...}" />
+            <marker date="1515615314000" expanded="true" signature="1305:1543" ph="{...}" />
+            <marker date="1515615314000" expanded="true" signature="1350:1537" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UnityARKitPlugin/Examples/UnityARBallz/BallMover.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1515615309000" expanded="false" signature="6:104" ph="..." />
+            <marker date="1515615309000" expanded="true" signature="145:2084" ph="{...}" />
+            <marker date="1515615309000" expanded="true" signature="263:270" ph="{...}" />
+            <marker date="1515615309000" expanded="true" signature="318:407" ph="{...}" />
+            <marker date="1515615309000" expanded="true" signature="462:2082" ph="{...}" />
+            <marker date="1515615309000" expanded="true" signature="492:2078" ph="{...}" />
+            <marker date="1515615309000" expanded="true" signature="571:1191" ph="{...}" />
+            <marker date="1515615309000" expanded="true" signature="682:742" ph="{...}" />
+            <marker date="1515615309000" expanded="true" signature="998:1185" ph="{...}" />
+            <marker date="1515615309000" expanded="true" signature="1043:1179" ph="{...}" />
+            <marker date="1515615309000" expanded="true" signature="1256:1950" ph="{...}" />
+            <marker date="1515615309000" expanded="true" signature="1367:1427" ph="{...}" />
+            <marker date="1515615309000" expanded="true" signature="1683:1945" ph="{...}" />
+            <marker date="1515615309000" expanded="true" signature="1728:1939" ph="{...}" />
+            <marker date="1515615309000" expanded="true" signature="1998:2074" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
